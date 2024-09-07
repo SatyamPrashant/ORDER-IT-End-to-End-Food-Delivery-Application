@@ -27,7 +27,7 @@ Watch my [detailed demonstration on YouTube](https://youtu.be/aiyqyTXEroE?si=LBd
 ### Installation Steps
 1. **Clone the Repository:**
    ```cmd
-   git clone https://github.com/Juileepatil84/nutri_check_app-using-gemini-pro-vosion.git
+   git clone https://github.com/SatyamPrashant/Order-It-WSA-MERN-Stack-Internship-Project.git
 
 2. **Open the Cloned Folder in Visual Studio Code:**
    
