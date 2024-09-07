@@ -31,23 +31,24 @@ Watch my [detailed demonstration on YouTube](https://youtu.be/aiyqyTXEroE?si=LBd
 
 2. **Open the Cloned Folder in Visual Studio Code:**
    
-   Navigate to the frontend and backend folder in the project.
+Navigate to the frontend and backend folder in the project.
 
 4. **Install the Required Libraries and Dependencies:**
-   ```
+   ```cmd
    npm install
-   //run this command in both frontend and backend folders.
 
+Run this command in both the frontend and backend folders.
+   
 4. **Connect Database to MongoDB:**
 
-   Inside your project directory, navigate to config.env file, copy the URI and paste it into your MongoDB compass application. Then navigate to the database folder and import the required json files.
+Inside your project directory, navigate to config.env file, copy the URI and paste it into your MongoDB compass application. Then navigate to the database folder and import the required json files.
 
 6. **Update config.env File:**
 
-   Update your config.env file by entering your cloudinary API keys, Mailtrap Credentials and Stripe API keys
+Update your config.env file by entering your cloudinary API keys, Mailtrap Credentials and Stripe API keys
 
 9. **Run the Application**
-   ```
+   ```cmd
    npm start
-   //First run this command in your backend folder and then in your frontend folder.
-   // The application will get hosted on your local system.
+
+First run this command in your backend folder and then in your frontend folder. The application will get hosted on your local system.
