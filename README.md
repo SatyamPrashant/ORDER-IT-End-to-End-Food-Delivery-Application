@@ -1,4 +1,4 @@
-# WSA MERN Stack Internship Project
+# ORDER-IT Food Delivery Application
 
 ## Overview
 This project was developed by me during my internship at Web Stack Academy. This is an end-to-end Food Ordering Web Application built using MERN Stack.
